@@ -35,8 +35,12 @@ def grayscale(img):
   # Turn image to almost greyscale, leaving 20% saturation.
   return tf.image.adjust_saturation(img, 0.2)
 
+
+def add_directory_prefix(path: str) -> str:
+  return 'transferred_' + path
+
 # Directory with the original dataset.
-dataset_dir = 'test_dataset'
+dataset_dir = 'test_data'
 
 # Directory with the style images.
 style_dir = 'styles'
@@ -51,6 +55,10 @@ model = hub.load('https://tfhub.dev/google/magenta/arbitrary-image-stylization-v
 # Requires the same structure as `WebFace`.
 for sub_folder in os.scandir(dataset_dir):
   if sub_folder.is_dir():
+
+    # Create an equivalent directory in the `transferred` directory.
+    os.makedirs(add_directory_prefix(sub_folder.path), exist_ok=True)
+
     for file_name in os.scandir(sub_folder):
       if file_name.is_file():
 
@@ -62,12 +70,11 @@ for sub_folder in os.scandir(dataset_dir):
 
         # Create the new file name.
         file_path, file_ext = os.path.splitext(file_name.path)
-        new_file_name = 'transferred_' + file_path + '_' + style[0] + file_ext
+        new_file_name = add_directory_prefix(file_path + '_' + style[0] + file_ext)
 
         # Generate altered image.
         stylized_image = model(tf.constant(content_image), tf.constant(style[1]))[0]
         img = tensor_to_image(stylized_image)
 
         # Save the image.
-        os.makedirs(os.path.dirname(new_file_name), exist_ok=True)
         img.save(new_file_name)
