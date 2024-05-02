@@ -1,0 +1,1440 @@
+Gennadii_Golovkin	39	97
+Gennadii_Golovkin	16	57
+Gennadii_Golovkin	9	21
+Aidana_Medenova	28	16
+Aidana_Medenova	23	72
+Aidana_Medenova	20	28
+Saken_Maigaziyev	59	70
+Saken_Maigaziyev	35	7
+Saken_Maigaziyev	39	31
+Zhanar_Dugalova	66	73
+Zhanar_Dugalova	87	10
+Zhanar_Dugalova	2	50
+Madina_Sadvakasova	70	84
+Madina_Sadvakasova	50	50
+Madina_Sadvakasova	84	54
+Aisaule_Bakhytbek	41	32
+Aisaule_Bakhytbek	32	2
+Aisaule_Bakhytbek	47	60
+Kairat_Nurtas	85	83
+Kairat_Nurtas	66	41
+Kairat_Nurtas	15	61
+Ali_Okapov	44	67
+Ali_Okapov	45	4
+Ali_Okapov	89	3
+Aikyn_Tolepbergen	7	15
+Aikyn_Tolepbergen	10	39
+Aikyn_Tolepbergen	12	55
+Makpal_Isabekova	47	74
+Makpal_Isabekova	43	92
+Makpal_Isabekova	15	62
+Asel_Sagatova	6	90
+Asel_Sagatova	20	22
+Asel_Sagatova	8	11
+Bayan_Esentayeva	57	46
+Bayan_Esentayeva	11	35
+Bayan_Esentayeva	71	93
+Asel_Sadvakasova	11	36
+Asel_Sadvakasova	14	69
+Asel_Sadvakasova	94	28
+Nursultan_Nazarbayev	56	16
+Nursultan_Nazarbayev	64	47
+Nursultan_Nazarbayev	3	51
+Irada_Ramadanova	75	52
+Irada_Ramadanova	41	30
+Irada_Ramadanova	64	50
+Anatoli_Tsoi	25	18
+Anatoli_Tsoi	70	48
+Anatoli_Tsoi	56	38
+Asha_Matai	87	10
+Asha_Matai	57	40
+Asha_Matai	90	36
+Almas_Kishkenbayev	94	31
+Almas_Kishkenbayev	60	69
+Almas_Kishkenbayev	94	89
+Iliya_Iliyn	69	77
+Iliya_Iliyn	14	76
+Iliya_Iliyn	43	29
+Zhaniya_Djurinskaya	13	1
+Zhaniya_Djurinskaya	60	48
+Zhaniya_Djurinskaya	47	36
+Karakat_Abildina	36	19
+Karakat_Abildina	64	39
+Karakat_Abildina	22	8
+Denis_Ten	85	43
+Denis_Ten	27	19
+Denis_Ten	30	90
+Aiya_Shalkar	74	90
+Aiya_Shalkar	58	47
+Aiya_Shalkar	13	10
+Dilnaz_Akhmadiyeva	77	22
+Dilnaz_Akhmadiyeva	70	85
+Dilnaz_Akhmadiyeva	37	77
+Gennadii_Golovkin	55	Nursultan_Nazarbayev	61
+Gennadii_Golovkin	84	Nursultan_Nazarbayev	75
+Gennadii_Golovkin	54	Nursultan_Nazarbayev	86
+Aidana_Medenova	60	Irada_Ramadanova	58
+Aidana_Medenova	43	Irada_Ramadanova	34
+Aidana_Medenova	59	Irada_Ramadanova	74
+Saken_Maigaziyev	47	Aidana_Medenova	49
+Saken_Maigaziyev	59	Aidana_Medenova	70
+Saken_Maigaziyev	49	Aidana_Medenova	40
+Zhanar_Dugalova	93	Saken_Maigaziyev	54
+Zhanar_Dugalova	37	Saken_Maigaziyev	24
+Zhanar_Dugalova	60	Saken_Maigaziyev	2
+Madina_Sadvakasova	85	Karakat_Abildina	6
+Madina_Sadvakasova	86	Karakat_Abildina	4
+Madina_Sadvakasova	19	Karakat_Abildina	20
+Aisaule_Bakhytbek	39	Gennadii_Golovkin	17
+Aisaule_Bakhytbek	40	Gennadii_Golovkin	27
+Aisaule_Bakhytbek	35	Gennadii_Golovkin	12
+Kairat_Nurtas	25	Zhanar_Dugalova	88
+Kairat_Nurtas	20	Zhanar_Dugalova	35
+Kairat_Nurtas	77	Zhanar_Dugalova	8
+Ali_Okapov	14	Asha_Matai	88
+Ali_Okapov	9	Asha_Matai	17
+Ali_Okapov	59	Asha_Matai	84
+Aikyn_Tolepbergen	4	Kairat_Nurtas	13
+Aikyn_Tolepbergen	69	Kairat_Nurtas	89
+Aikyn_Tolepbergen	30	Kairat_Nurtas	38
+Makpal_Isabekova	82	Aidana_Medenova	64
+Makpal_Isabekova	40	Aidana_Medenova	34
+Makpal_Isabekova	81	Aidana_Medenova	58
+Asel_Sagatova	50	Aikyn_Tolepbergen	3
+Asel_Sagatova	55	Aikyn_Tolepbergen	66
+Asel_Sagatova	35	Aikyn_Tolepbergen	51
+Bayan_Esentayeva	18	Aidana_Medenova	62
+Bayan_Esentayeva	75	Aidana_Medenova	40
+Bayan_Esentayeva	73	Aidana_Medenova	73
+Asel_Sadvakasova	60	Denis_Ten	55
+Asel_Sadvakasova	57	Denis_Ten	64
+Asel_Sadvakasova	75	Denis_Ten	34
+Nursultan_Nazarbayev	20	Anatoli_Tsoi	96
+Nursultan_Nazarbayev	47	Anatoli_Tsoi	73
+Nursultan_Nazarbayev	67	Anatoli_Tsoi	85
+Irada_Ramadanova	17	Bayan_Esentayeva	16
+Irada_Ramadanova	44	Bayan_Esentayeva	37
+Irada_Ramadanova	14	Bayan_Esentayeva	87
+Anatoli_Tsoi	86	Zhaniya_Djurinskaya	15
+Anatoli_Tsoi	16	Zhaniya_Djurinskaya	76
+Anatoli_Tsoi	52	Zhaniya_Djurinskaya	36
+Asha_Matai	87	Bayan_Esentayeva	24
+Asha_Matai	19	Bayan_Esentayeva	76
+Asha_Matai	64	Bayan_Esentayeva	4
+Almas_Kishkenbayev	43	Irada_Ramadanova	10
+Almas_Kishkenbayev	1	Irada_Ramadanova	21
+Almas_Kishkenbayev	68	Irada_Ramadanova	65
+Iliya_Iliyn	44	Kairat_Nurtas	94
+Iliya_Iliyn	90	Kairat_Nurtas	33
+Iliya_Iliyn	77	Kairat_Nurtas	85
+Zhaniya_Djurinskaya	5	Aiya_Shalkar	59
+Zhaniya_Djurinskaya	55	Aiya_Shalkar	6
+Zhaniya_Djurinskaya	41	Aiya_Shalkar	23
+Karakat_Abildina	49	Asha_Matai	4
+Karakat_Abildina	32	Asha_Matai	33
+Karakat_Abildina	73	Asha_Matai	84
+Denis_Ten	13	Saken_Maigaziyev	67
+Denis_Ten	21	Saken_Maigaziyev	42
+Denis_Ten	46	Saken_Maigaziyev	73
+Aiya_Shalkar	84	Ali_Okapov	72
+Aiya_Shalkar	5	Ali_Okapov	76
+Aiya_Shalkar	16	Ali_Okapov	12
+Dilnaz_Akhmadiyeva	6	Iliya_Iliyn	41
+Dilnaz_Akhmadiyeva	55	Iliya_Iliyn	18
+Dilnaz_Akhmadiyeva	24	Iliya_Iliyn	35
+Gennadii_Golovkin	71	16
+Gennadii_Golovkin	2	65
+Gennadii_Golovkin	53	79
+Aidana_Medenova	8	48
+Aidana_Medenova	20	38
+Aidana_Medenova	60	49
+Saken_Maigaziyev	36	55
+Saken_Maigaziyev	13	60
+Saken_Maigaziyev	25	20
+Zhanar_Dugalova	45	93
+Zhanar_Dugalova	65	55
+Zhanar_Dugalova	55	46
+Madina_Sadvakasova	31	32
+Madina_Sadvakasova	89	28
+Madina_Sadvakasova	33	90
+Aisaule_Bakhytbek	68	52
+Aisaule_Bakhytbek	41	7
+Aisaule_Bakhytbek	49	26
+Kairat_Nurtas	76	18
+Kairat_Nurtas	72	22
+Kairat_Nurtas	94	52
+Ali_Okapov	11	84
+Ali_Okapov	35	65
+Ali_Okapov	48	80
+Aikyn_Tolepbergen	60	38
+Aikyn_Tolepbergen	21	33
+Aikyn_Tolepbergen	11	77
+Makpal_Isabekova	22	60
+Makpal_Isabekova	25	81
+Makpal_Isabekova	25	94
+Asel_Sagatova	21	60
+Asel_Sagatova	48	66
+Asel_Sagatova	33	62
+Bayan_Esentayeva	61	38
+Bayan_Esentayeva	83	21
+Bayan_Esentayeva	8	46
+Asel_Sadvakasova	64	15
+Asel_Sadvakasova	68	85
+Asel_Sadvakasova	73	50
+Nursultan_Nazarbayev	31	49
+Nursultan_Nazarbayev	54	90
+Nursultan_Nazarbayev	88	19
+Irada_Ramadanova	77	27
+Irada_Ramadanova	17	17
+Irada_Ramadanova	22	8
+Anatoli_Tsoi	69	28
+Anatoli_Tsoi	18	12
+Anatoli_Tsoi	81	73
+Asha_Matai	19	53
+Asha_Matai	21	65
+Asha_Matai	85	11
+Almas_Kishkenbayev	28	14
+Almas_Kishkenbayev	73	48
+Almas_Kishkenbayev	71	73
+Iliya_Iliyn	34	24
+Iliya_Iliyn	89	5
+Iliya_Iliyn	24	65
+Zhaniya_Djurinskaya	72	81
+Zhaniya_Djurinskaya	16	58
+Zhaniya_Djurinskaya	33	61
+Karakat_Abildina	60	45
+Karakat_Abildina	63	16
+Karakat_Abildina	84	20
+Denis_Ten	30	35
+Denis_Ten	61	17
+Denis_Ten	85	11
+Aiya_Shalkar	21	74
+Aiya_Shalkar	19	45
+Aiya_Shalkar	85	6
+Dilnaz_Akhmadiyeva	14	84
+Dilnaz_Akhmadiyeva	50	86
+Dilnaz_Akhmadiyeva	54	49
+Gennadii_Golovkin	53	Asel_Sagatova	34
+Gennadii_Golovkin	4	Asel_Sagatova	38
+Gennadii_Golovkin	21	Asel_Sagatova	50
+Aidana_Medenova	78	Bayan_Esentayeva	25
+Aidana_Medenova	76	Bayan_Esentayeva	62
+Aidana_Medenova	80	Bayan_Esentayeva	66
+Saken_Maigaziyev	5	Anatoli_Tsoi	26
+Saken_Maigaziyev	70	Anatoli_Tsoi	91
+Saken_Maigaziyev	88	Anatoli_Tsoi	73
+Zhanar_Dugalova	84	Zhanar_Dugalova	95
+Zhanar_Dugalova	9	Zhanar_Dugalova	34
+Zhanar_Dugalova	44	Zhanar_Dugalova	81
+Madina_Sadvakasova	94	Madina_Sadvakasova	79
+Madina_Sadvakasova	66	Madina_Sadvakasova	30
+Madina_Sadvakasova	92	Madina_Sadvakasova	68
+Aisaule_Bakhytbek	38	Madina_Sadvakasova	17
+Aisaule_Bakhytbek	1	Madina_Sadvakasova	51
+Aisaule_Bakhytbek	22	Madina_Sadvakasova	57
+Kairat_Nurtas	37	Gennadii_Golovkin	86
+Kairat_Nurtas	51	Gennadii_Golovkin	55
+Kairat_Nurtas	82	Gennadii_Golovkin	87
+Ali_Okapov	74	Iliya_Iliyn	70
+Ali_Okapov	86	Iliya_Iliyn	47
+Ali_Okapov	75	Iliya_Iliyn	11
+Aikyn_Tolepbergen	21	Asha_Matai	49
+Aikyn_Tolepbergen	32	Asha_Matai	80
+Aikyn_Tolepbergen	6	Asha_Matai	33
+Makpal_Isabekova	58	Aidana_Medenova	28
+Makpal_Isabekova	34	Aidana_Medenova	49
+Makpal_Isabekova	90	Aidana_Medenova	18
+Asel_Sagatova	15	Karakat_Abildina	90
+Asel_Sagatova	77	Karakat_Abildina	52
+Asel_Sagatova	19	Karakat_Abildina	71
+Bayan_Esentayeva	16	Gennadii_Golovkin	23
+Bayan_Esentayeva	69	Gennadii_Golovkin	91
+Bayan_Esentayeva	49	Gennadii_Golovkin	84
+Asel_Sadvakasova	41	Irada_Ramadanova	75
+Asel_Sadvakasova	2	Irada_Ramadanova	73
+Asel_Sadvakasova	65	Irada_Ramadanova	22
+Nursultan_Nazarbayev	36	Irada_Ramadanova	75
+Nursultan_Nazarbayev	94	Irada_Ramadanova	54
+Nursultan_Nazarbayev	72	Irada_Ramadanova	71
+Irada_Ramadanova	42	Zhaniya_Djurinskaya	17
+Irada_Ramadanova	11	Zhaniya_Djurinskaya	43
+Irada_Ramadanova	53	Zhaniya_Djurinskaya	38
+Anatoli_Tsoi	53	Asha_Matai	18
+Anatoli_Tsoi	62	Asha_Matai	69
+Anatoli_Tsoi	27	Asha_Matai	15
+Asha_Matai	51	Anatoli_Tsoi	51
+Asha_Matai	47	Anatoli_Tsoi	18
+Asha_Matai	29	Anatoli_Tsoi	33
+Almas_Kishkenbayev	66	Asel_Sadvakasova	41
+Almas_Kishkenbayev	73	Asel_Sadvakasova	49
+Almas_Kishkenbayev	43	Asel_Sadvakasova	29
+Iliya_Iliyn	11	Aidana_Medenova	21
+Iliya_Iliyn	61	Aidana_Medenova	2
+Iliya_Iliyn	71	Aidana_Medenova	63
+Zhaniya_Djurinskaya	57	Zhanar_Dugalova	13
+Zhaniya_Djurinskaya	21	Zhanar_Dugalova	49
+Zhaniya_Djurinskaya	31	Zhanar_Dugalova	33
+Karakat_Abildina	23	Denis_Ten	1
+Karakat_Abildina	34	Denis_Ten	25
+Karakat_Abildina	17	Denis_Ten	63
+Denis_Ten	21	Bayan_Esentayeva	17
+Denis_Ten	70	Bayan_Esentayeva	21
+Denis_Ten	34	Bayan_Esentayeva	82
+Aiya_Shalkar	19	Kairat_Nurtas	18
+Aiya_Shalkar	41	Kairat_Nurtas	47
+Aiya_Shalkar	92	Kairat_Nurtas	16
+Dilnaz_Akhmadiyeva	6	Anatoli_Tsoi	42
+Dilnaz_Akhmadiyeva	41	Anatoli_Tsoi	34
+Dilnaz_Akhmadiyeva	52	Anatoli_Tsoi	2
+Gennadii_Golovkin	53	9
+Gennadii_Golovkin	59	38
+Gennadii_Golovkin	73	29
+Aidana_Medenova	70	13
+Aidana_Medenova	16	39
+Aidana_Medenova	59	46
+Saken_Maigaziyev	21	74
+Saken_Maigaziyev	12	15
+Saken_Maigaziyev	82	46
+Zhanar_Dugalova	55	40
+Zhanar_Dugalova	59	70
+Zhanar_Dugalova	15	24
+Madina_Sadvakasova	61	19
+Madina_Sadvakasova	18	14
+Madina_Sadvakasova	79	67
+Aisaule_Bakhytbek	25	63
+Aisaule_Bakhytbek	35	13
+Aisaule_Bakhytbek	62	16
+Kairat_Nurtas	34	72
+Kairat_Nurtas	45	13
+Kairat_Nurtas	3	46
+Ali_Okapov	64	59
+Ali_Okapov	94	52
+Ali_Okapov	67	31
+Aikyn_Tolepbergen	50	74
+Aikyn_Tolepbergen	35	25
+Aikyn_Tolepbergen	2	45
+Makpal_Isabekova	98	82
+Makpal_Isabekova	68	70
+Makpal_Isabekova	12	37
+Asel_Sagatova	12	31
+Asel_Sagatova	1	31
+Asel_Sagatova	62	65
+Bayan_Esentayeva	16	63
+Bayan_Esentayeva	78	27
+Bayan_Esentayeva	10	11
+Asel_Sadvakasova	63	87
+Asel_Sadvakasova	60	1
+Asel_Sadvakasova	88	92
+Nursultan_Nazarbayev	83	81
+Nursultan_Nazarbayev	52	34
+Nursultan_Nazarbayev	6	30
+Irada_Ramadanova	18	11
+Irada_Ramadanova	3	80
+Irada_Ramadanova	6	64
+Anatoli_Tsoi	82	3
+Anatoli_Tsoi	95	2
+Anatoli_Tsoi	30	9
+Asha_Matai	80	55
+Asha_Matai	50	82
+Asha_Matai	56	74
+Almas_Kishkenbayev	48	48
+Almas_Kishkenbayev	20	19
+Almas_Kishkenbayev	33	29
+Iliya_Iliyn	76	21
+Iliya_Iliyn	62	43
+Iliya_Iliyn	23	65
+Zhaniya_Djurinskaya	57	71
+Zhaniya_Djurinskaya	79	24
+Zhaniya_Djurinskaya	35	51
+Karakat_Abildina	32	69
+Karakat_Abildina	25	73
+Karakat_Abildina	51	89
+Denis_Ten	75	1
+Denis_Ten	69	22
+Denis_Ten	83	55
+Aiya_Shalkar	76	28
+Aiya_Shalkar	4	12
+Aiya_Shalkar	93	22
+Dilnaz_Akhmadiyeva	17	82
+Dilnaz_Akhmadiyeva	71	64
+Dilnaz_Akhmadiyeva	56	19
+Gennadii_Golovkin	52	Asel_Sadvakasova	54
+Gennadii_Golovkin	91	Asel_Sadvakasova	50
+Gennadii_Golovkin	62	Asel_Sadvakasova	57
+Aidana_Medenova	69	Anatoli_Tsoi	45
+Aidana_Medenova	8	Anatoli_Tsoi	18
+Aidana_Medenova	70	Anatoli_Tsoi	45
+Saken_Maigaziyev	13	Bayan_Esentayeva	32
+Saken_Maigaziyev	90	Bayan_Esentayeva	47
+Saken_Maigaziyev	86	Bayan_Esentayeva	73
+Zhanar_Dugalova	44	Asha_Matai	28
+Zhanar_Dugalova	25	Asha_Matai	72
+Zhanar_Dugalova	96	Asha_Matai	73
+Madina_Sadvakasova	25	Karakat_Abildina	55
+Madina_Sadvakasova	32	Karakat_Abildina	42
+Madina_Sadvakasova	39	Karakat_Abildina	20
+Aisaule_Bakhytbek	30	Aisaule_Bakhytbek	5
+Aisaule_Bakhytbek	10	Aisaule_Bakhytbek	1
+Aisaule_Bakhytbek	40	Aisaule_Bakhytbek	52
+Kairat_Nurtas	52	Nursultan_Nazarbayev	56
+Kairat_Nurtas	59	Nursultan_Nazarbayev	10
+Kairat_Nurtas	89	Nursultan_Nazarbayev	31
+Ali_Okapov	91	Almas_Kishkenbayev	58
+Ali_Okapov	33	Almas_Kishkenbayev	56
+Ali_Okapov	8	Almas_Kishkenbayev	49
+Aikyn_Tolepbergen	39	Nursultan_Nazarbayev	18
+Aikyn_Tolepbergen	20	Nursultan_Nazarbayev	72
+Aikyn_Tolepbergen	75	Nursultan_Nazarbayev	37
+Makpal_Isabekova	91	Aikyn_Tolepbergen	41
+Makpal_Isabekova	93	Aikyn_Tolepbergen	28
+Makpal_Isabekova	49	Aikyn_Tolepbergen	78
+Asel_Sagatova	84	Kairat_Nurtas	30
+Asel_Sagatova	28	Kairat_Nurtas	31
+Asel_Sagatova	12	Kairat_Nurtas	94
+Bayan_Esentayeva	8	Kairat_Nurtas	34
+Bayan_Esentayeva	4	Kairat_Nurtas	17
+Bayan_Esentayeva	21	Kairat_Nurtas	38
+Asel_Sadvakasova	18	Zhaniya_Djurinskaya	62
+Asel_Sadvakasova	29	Zhaniya_Djurinskaya	69
+Asel_Sadvakasova	6	Zhaniya_Djurinskaya	63
+Nursultan_Nazarbayev	66	Ali_Okapov	18
+Nursultan_Nazarbayev	5	Ali_Okapov	26
+Nursultan_Nazarbayev	98	Ali_Okapov	24
+Irada_Ramadanova	18	Asha_Matai	76
+Irada_Ramadanova	12	Asha_Matai	80
+Irada_Ramadanova	67	Asha_Matai	12
+Anatoli_Tsoi	27	Dilnaz_Akhmadiyeva	1
+Anatoli_Tsoi	79	Dilnaz_Akhmadiyeva	79
+Anatoli_Tsoi	69	Dilnaz_Akhmadiyeva	60
+Asha_Matai	24	Iliya_Iliyn	24
+Asha_Matai	54	Iliya_Iliyn	72
+Asha_Matai	77	Iliya_Iliyn	11
+Almas_Kishkenbayev	86	Dilnaz_Akhmadiyeva	30
+Almas_Kishkenbayev	39	Dilnaz_Akhmadiyeva	27
+Almas_Kishkenbayev	36	Dilnaz_Akhmadiyeva	72
+Iliya_Iliyn	61	Aidana_Medenova	52
+Iliya_Iliyn	2	Aidana_Medenova	13
+Iliya_Iliyn	85	Aidana_Medenova	55
+Zhaniya_Djurinskaya	13	Makpal_Isabekova	27
+Zhaniya_Djurinskaya	85	Makpal_Isabekova	40
+Zhaniya_Djurinskaya	51	Makpal_Isabekova	66
+Karakat_Abildina	69	Saken_Maigaziyev	41
+Karakat_Abildina	58	Saken_Maigaziyev	14
+Karakat_Abildina	48	Saken_Maigaziyev	4
+Denis_Ten	12	Zhaniya_Djurinskaya	42
+Denis_Ten	18	Zhaniya_Djurinskaya	47
+Denis_Ten	95	Zhaniya_Djurinskaya	4
+Aiya_Shalkar	33	Irada_Ramadanova	5
+Aiya_Shalkar	71	Irada_Ramadanova	32
+Aiya_Shalkar	94	Irada_Ramadanova	13
+Dilnaz_Akhmadiyeva	62	Makpal_Isabekova	58
+Dilnaz_Akhmadiyeva	34	Makpal_Isabekova	25
+Dilnaz_Akhmadiyeva	92	Makpal_Isabekova	75
+Gennadii_Golovkin	5	22
+Gennadii_Golovkin	46	75
+Gennadii_Golovkin	57	27
+Aidana_Medenova	73	27
+Aidana_Medenova	7	67
+Aidana_Medenova	40	72
+Saken_Maigaziyev	83	4
+Saken_Maigaziyev	79	5
+Saken_Maigaziyev	13	44
+Zhanar_Dugalova	40	89
+Zhanar_Dugalova	32	32
+Zhanar_Dugalova	26	50
+Madina_Sadvakasova	21	69
+Madina_Sadvakasova	39	88
+Madina_Sadvakasova	86	81
+Aisaule_Bakhytbek	18	29
+Aisaule_Bakhytbek	62	67
+Aisaule_Bakhytbek	55	28
+Kairat_Nurtas	9	92
+Kairat_Nurtas	53	56
+Kairat_Nurtas	29	94
+Ali_Okapov	80	93
+Ali_Okapov	87	51
+Ali_Okapov	36	37
+Aikyn_Tolepbergen	18	60
+Aikyn_Tolepbergen	58	21
+Aikyn_Tolepbergen	46	69
+Makpal_Isabekova	98	8
+Makpal_Isabekova	12	66
+Makpal_Isabekova	5	62
+Asel_Sagatova	46	91
+Asel_Sagatova	87	14
+Asel_Sagatova	46	28
+Bayan_Esentayeva	36	73
+Bayan_Esentayeva	21	69
+Bayan_Esentayeva	13	3
+Asel_Sadvakasova	8	45
+Asel_Sadvakasova	35	95
+Asel_Sadvakasova	11	25
+Nursultan_Nazarbayev	9	93
+Nursultan_Nazarbayev	84	39
+Nursultan_Nazarbayev	11	54
+Irada_Ramadanova	32	47
+Irada_Ramadanova	74	26
+Irada_Ramadanova	50	24
+Anatoli_Tsoi	56	63
+Anatoli_Tsoi	95	58
+Anatoli_Tsoi	7	13
+Asha_Matai	71	4
+Asha_Matai	20	44
+Asha_Matai	50	5
+Almas_Kishkenbayev	32	74
+Almas_Kishkenbayev	39	28
+Almas_Kishkenbayev	1	29
+Iliya_Iliyn	4	49
+Iliya_Iliyn	75	47
+Iliya_Iliyn	82	10
+Zhaniya_Djurinskaya	78	1
+Zhaniya_Djurinskaya	75	40
+Zhaniya_Djurinskaya	13	91
+Karakat_Abildina	85	69
+Karakat_Abildina	80	10
+Karakat_Abildina	6	14
+Denis_Ten	58	59
+Denis_Ten	7	92
+Denis_Ten	25	84
+Aiya_Shalkar	23	14
+Aiya_Shalkar	22	73
+Aiya_Shalkar	80	46
+Dilnaz_Akhmadiyeva	14	68
+Dilnaz_Akhmadiyeva	72	82
+Dilnaz_Akhmadiyeva	65	21
+Gennadii_Golovkin	90	Saken_Maigaziyev	36
+Gennadii_Golovkin	36	Saken_Maigaziyev	50
+Gennadii_Golovkin	59	Saken_Maigaziyev	10
+Aidana_Medenova	41	Bayan_Esentayeva	34
+Aidana_Medenova	20	Bayan_Esentayeva	89
+Aidana_Medenova	51	Bayan_Esentayeva	22
+Saken_Maigaziyev	39	Aisaule_Bakhytbek	23
+Saken_Maigaziyev	76	Aisaule_Bakhytbek	69
+Saken_Maigaziyev	88	Aisaule_Bakhytbek	30
+Zhanar_Dugalova	38	Aisaule_Bakhytbek	3
+Zhanar_Dugalova	92	Aisaule_Bakhytbek	3
+Zhanar_Dugalova	26	Aisaule_Bakhytbek	29
+Madina_Sadvakasova	53	Kairat_Nurtas	70
+Madina_Sadvakasova	40	Kairat_Nurtas	56
+Madina_Sadvakasova	89	Kairat_Nurtas	84
+Aisaule_Bakhytbek	59	Zhaniya_Djurinskaya	72
+Aisaule_Bakhytbek	64	Zhaniya_Djurinskaya	87
+Aisaule_Bakhytbek	18	Zhaniya_Djurinskaya	50
+Kairat_Nurtas	65	Bayan_Esentayeva	41
+Kairat_Nurtas	8	Bayan_Esentayeva	51
+Kairat_Nurtas	64	Bayan_Esentayeva	76
+Ali_Okapov	61	Aisaule_Bakhytbek	13
+Ali_Okapov	36	Aisaule_Bakhytbek	27
+Ali_Okapov	65	Aisaule_Bakhytbek	43
+Aikyn_Tolepbergen	34	Saken_Maigaziyev	46
+Aikyn_Tolepbergen	26	Saken_Maigaziyev	6
+Aikyn_Tolepbergen	20	Saken_Maigaziyev	75
+Makpal_Isabekova	45	Almas_Kishkenbayev	42
+Makpal_Isabekova	24	Almas_Kishkenbayev	34
+Makpal_Isabekova	52	Almas_Kishkenbayev	15
+Asel_Sagatova	69	Asha_Matai	24
+Asel_Sagatova	69	Asha_Matai	7
+Asel_Sagatova	20	Asha_Matai	9
+Bayan_Esentayeva	16	Aisaule_Bakhytbek	50
+Bayan_Esentayeva	24	Aisaule_Bakhytbek	5
+Bayan_Esentayeva	40	Aisaule_Bakhytbek	14
+Asel_Sadvakasova	33	Kairat_Nurtas	87
+Asel_Sadvakasova	91	Kairat_Nurtas	98
+Asel_Sadvakasova	54	Kairat_Nurtas	68
+Nursultan_Nazarbayev	36	Ali_Okapov	15
+Nursultan_Nazarbayev	23	Ali_Okapov	80
+Nursultan_Nazarbayev	77	Ali_Okapov	26
+Irada_Ramadanova	38	Irada_Ramadanova	19
+Irada_Ramadanova	61	Irada_Ramadanova	60
+Irada_Ramadanova	74	Irada_Ramadanova	15
+Anatoli_Tsoi	24	Aikyn_Tolepbergen	49
+Anatoli_Tsoi	59	Aikyn_Tolepbergen	42
+Anatoli_Tsoi	10	Aikyn_Tolepbergen	69
+Asha_Matai	10	Aiya_Shalkar	79
+Asha_Matai	5	Aiya_Shalkar	70
+Asha_Matai	46	Aiya_Shalkar	11
+Almas_Kishkenbayev	83	Ali_Okapov	21
+Almas_Kishkenbayev	89	Ali_Okapov	85
+Almas_Kishkenbayev	81	Ali_Okapov	32
+Iliya_Iliyn	92	Irada_Ramadanova	10
+Iliya_Iliyn	88	Irada_Ramadanova	73
+Iliya_Iliyn	77	Irada_Ramadanova	16
+Zhaniya_Djurinskaya	32	Aikyn_Tolepbergen	34
+Zhaniya_Djurinskaya	80	Aikyn_Tolepbergen	19
+Zhaniya_Djurinskaya	20	Aikyn_Tolepbergen	57
+Karakat_Abildina	42	Zhanar_Dugalova	9
+Karakat_Abildina	78	Zhanar_Dugalova	28
+Karakat_Abildina	50	Zhanar_Dugalova	50
+Denis_Ten	5	Almas_Kishkenbayev	13
+Denis_Ten	28	Almas_Kishkenbayev	62
+Denis_Ten	69	Almas_Kishkenbayev	75
+Aiya_Shalkar	36	Aisaule_Bakhytbek	2
+Aiya_Shalkar	36	Aisaule_Bakhytbek	16
+Aiya_Shalkar	46	Aisaule_Bakhytbek	23
+Dilnaz_Akhmadiyeva	89	Denis_Ten	56
+Dilnaz_Akhmadiyeva	8	Denis_Ten	4
+Dilnaz_Akhmadiyeva	6	Denis_Ten	35
+Gennadii_Golovkin	39	87
+Gennadii_Golovkin	38	65
+Gennadii_Golovkin	36	3
+Aidana_Medenova	72	7
+Aidana_Medenova	80	38
+Aidana_Medenova	14	76
+Saken_Maigaziyev	44	32
+Saken_Maigaziyev	46	87
+Saken_Maigaziyev	20	63
+Zhanar_Dugalova	90	24
+Zhanar_Dugalova	95	61
+Zhanar_Dugalova	3	19
+Madina_Sadvakasova	33	46
+Madina_Sadvakasova	12	31
+Madina_Sadvakasova	94	86
+Aisaule_Bakhytbek	45	48
+Aisaule_Bakhytbek	17	67
+Aisaule_Bakhytbek	14	62
+Kairat_Nurtas	82	72
+Kairat_Nurtas	8	44
+Kairat_Nurtas	53	77
+Ali_Okapov	85	14
+Ali_Okapov	31	91
+Ali_Okapov	70	59
+Aikyn_Tolepbergen	9	49
+Aikyn_Tolepbergen	4	23
+Aikyn_Tolepbergen	38	35
+Makpal_Isabekova	77	8
+Makpal_Isabekova	33	78
+Makpal_Isabekova	6	7
+Asel_Sagatova	90	88
+Asel_Sagatova	82	53
+Asel_Sagatova	80	2
+Bayan_Esentayeva	78	62
+Bayan_Esentayeva	88	8
+Bayan_Esentayeva	69	32
+Asel_Sadvakasova	17	9
+Asel_Sadvakasova	31	60
+Asel_Sadvakasova	48	42
+Nursultan_Nazarbayev	98	71
+Nursultan_Nazarbayev	33	59
+Nursultan_Nazarbayev	1	87
+Irada_Ramadanova	19	57
+Irada_Ramadanova	53	71
+Irada_Ramadanova	81	40
+Anatoli_Tsoi	28	41
+Anatoli_Tsoi	9	9
+Anatoli_Tsoi	72	34
+Asha_Matai	1	25
+Asha_Matai	53	92
+Asha_Matai	25	57
+Almas_Kishkenbayev	96	3
+Almas_Kishkenbayev	82	59
+Almas_Kishkenbayev	41	68
+Iliya_Iliyn	4	7
+Iliya_Iliyn	42	11
+Iliya_Iliyn	81	55
+Zhaniya_Djurinskaya	84	8
+Zhaniya_Djurinskaya	38	63
+Zhaniya_Djurinskaya	28	10
+Karakat_Abildina	50	66
+Karakat_Abildina	5	88
+Karakat_Abildina	25	51
+Denis_Ten	18	90
+Denis_Ten	67	66
+Denis_Ten	93	27
+Aiya_Shalkar	80	92
+Aiya_Shalkar	61	43
+Aiya_Shalkar	4	17
+Dilnaz_Akhmadiyeva	8	92
+Dilnaz_Akhmadiyeva	47	53
+Dilnaz_Akhmadiyeva	4	26
+Gennadii_Golovkin	28	Asel_Sadvakasova	22
+Gennadii_Golovkin	49	Asel_Sadvakasova	20
+Gennadii_Golovkin	91	Asel_Sadvakasova	20
+Aidana_Medenova	79	Aiya_Shalkar	63
+Aidana_Medenova	31	Aiya_Shalkar	44
+Aidana_Medenova	1	Aiya_Shalkar	13
+Saken_Maigaziyev	3	Aidana_Medenova	16
+Saken_Maigaziyev	1	Aidana_Medenova	73
+Saken_Maigaziyev	54	Aidana_Medenova	33
+Zhanar_Dugalova	93	Madina_Sadvakasova	38
+Zhanar_Dugalova	25	Madina_Sadvakasova	74
+Zhanar_Dugalova	51	Madina_Sadvakasova	23
+Madina_Sadvakasova	44	Irada_Ramadanova	42
+Madina_Sadvakasova	48	Irada_Ramadanova	26
+Madina_Sadvakasova	87	Irada_Ramadanova	24
+Aisaule_Bakhytbek	43	Asel_Sagatova	32
+Aisaule_Bakhytbek	53	Asel_Sagatova	90
+Aisaule_Bakhytbek	28	Asel_Sagatova	7
+Kairat_Nurtas	69	Aisaule_Bakhytbek	18
+Kairat_Nurtas	44	Aisaule_Bakhytbek	1
+Kairat_Nurtas	44	Aisaule_Bakhytbek	17
+Ali_Okapov	26	Zhanar_Dugalova	15
+Ali_Okapov	42	Zhanar_Dugalova	23
+Ali_Okapov	32	Zhanar_Dugalova	81
+Aikyn_Tolepbergen	31	Saken_Maigaziyev	57
+Aikyn_Tolepbergen	51	Saken_Maigaziyev	4
+Aikyn_Tolepbergen	42	Saken_Maigaziyev	48
+Makpal_Isabekova	56	Makpal_Isabekova	72
+Makpal_Isabekova	3	Makpal_Isabekova	50
+Makpal_Isabekova	12	Makpal_Isabekova	83
+Asel_Sagatova	95	Asel_Sagatova	81
+Asel_Sagatova	70	Asel_Sagatova	55
+Asel_Sagatova	71	Asel_Sagatova	83
+Bayan_Esentayeva	69	Iliya_Iliyn	71
+Bayan_Esentayeva	71	Iliya_Iliyn	44
+Bayan_Esentayeva	38	Iliya_Iliyn	29
+Asel_Sadvakasova	71	Aiya_Shalkar	89
+Asel_Sadvakasova	94	Aiya_Shalkar	59
+Asel_Sadvakasova	49	Aiya_Shalkar	16
+Nursultan_Nazarbayev	15	Iliya_Iliyn	85
+Nursultan_Nazarbayev	29	Iliya_Iliyn	45
+Nursultan_Nazarbayev	46	Iliya_Iliyn	38
+Irada_Ramadanova	31	Almas_Kishkenbayev	69
+Irada_Ramadanova	39	Almas_Kishkenbayev	62
+Irada_Ramadanova	8	Almas_Kishkenbayev	24
+Anatoli_Tsoi	24	Gennadii_Golovkin	44
+Anatoli_Tsoi	31	Gennadii_Golovkin	35
+Anatoli_Tsoi	61	Gennadii_Golovkin	93
+Asha_Matai	76	Irada_Ramadanova	70
+Asha_Matai	54	Irada_Ramadanova	11
+Asha_Matai	10	Irada_Ramadanova	41
+Almas_Kishkenbayev	38	Bayan_Esentayeva	1
+Almas_Kishkenbayev	8	Bayan_Esentayeva	80
+Almas_Kishkenbayev	17	Bayan_Esentayeva	93
+Iliya_Iliyn	31	Ali_Okapov	67
+Iliya_Iliyn	68	Ali_Okapov	20
+Iliya_Iliyn	93	Ali_Okapov	44
+Zhaniya_Djurinskaya	10	Iliya_Iliyn	34
+Zhaniya_Djurinskaya	56	Iliya_Iliyn	93
+Zhaniya_Djurinskaya	11	Iliya_Iliyn	8
+Karakat_Abildina	21	Asha_Matai	44
+Karakat_Abildina	19	Asha_Matai	84
+Karakat_Abildina	6	Asha_Matai	95
+Denis_Ten	89	Irada_Ramadanova	53
+Denis_Ten	54	Irada_Ramadanova	58
+Denis_Ten	39	Irada_Ramadanova	57
+Aiya_Shalkar	80	Saken_Maigaziyev	9
+Aiya_Shalkar	25	Saken_Maigaziyev	10
+Aiya_Shalkar	19	Saken_Maigaziyev	35
+Dilnaz_Akhmadiyeva	30	Zhaniya_Djurinskaya	29
+Dilnaz_Akhmadiyeva	48	Zhaniya_Djurinskaya	59
+Dilnaz_Akhmadiyeva	81	Zhaniya_Djurinskaya	72
+Gennadii_Golovkin	61	67
+Gennadii_Golovkin	65	32
+Gennadii_Golovkin	72	88
+Aidana_Medenova	58	42
+Aidana_Medenova	37	44
+Aidana_Medenova	68	29
+Saken_Maigaziyev	25	54
+Saken_Maigaziyev	67	61
+Saken_Maigaziyev	63	17
+Zhanar_Dugalova	11	54
+Zhanar_Dugalova	41	79
+Zhanar_Dugalova	87	31
+Madina_Sadvakasova	56	13
+Madina_Sadvakasova	65	61
+Madina_Sadvakasova	13	37
+Aisaule_Bakhytbek	52	9
+Aisaule_Bakhytbek	21	63
+Aisaule_Bakhytbek	62	2
+Kairat_Nurtas	2	72
+Kairat_Nurtas	76	74
+Kairat_Nurtas	43	91
+Ali_Okapov	42	14
+Ali_Okapov	37	91
+Ali_Okapov	38	92
+Aikyn_Tolepbergen	25	66
+Aikyn_Tolepbergen	46	9
+Aikyn_Tolepbergen	11	43
+Makpal_Isabekova	78	27
+Makpal_Isabekova	75	50
+Makpal_Isabekova	8	16
+Asel_Sagatova	14	25
+Asel_Sagatova	25	18
+Asel_Sagatova	72	21
+Bayan_Esentayeva	74	21
+Bayan_Esentayeva	27	44
+Bayan_Esentayeva	73	68
+Asel_Sadvakasova	27	12
+Asel_Sadvakasova	86	22
+Asel_Sadvakasova	53	36
+Nursultan_Nazarbayev	67	84
+Nursultan_Nazarbayev	96	17
+Nursultan_Nazarbayev	96	88
+Irada_Ramadanova	46	2
+Irada_Ramadanova	46	82
+Irada_Ramadanova	46	70
+Anatoli_Tsoi	67	79
+Anatoli_Tsoi	34	38
+Anatoli_Tsoi	80	10
+Asha_Matai	34	77
+Asha_Matai	32	57
+Asha_Matai	80	85
+Almas_Kishkenbayev	15	24
+Almas_Kishkenbayev	40	81
+Almas_Kishkenbayev	71	67
+Iliya_Iliyn	89	22
+Iliya_Iliyn	40	24
+Iliya_Iliyn	79	1
+Zhaniya_Djurinskaya	90	74
+Zhaniya_Djurinskaya	74	75
+Zhaniya_Djurinskaya	49	78
+Karakat_Abildina	71	90
+Karakat_Abildina	77	63
+Karakat_Abildina	44	80
+Denis_Ten	8	34
+Denis_Ten	42	2
+Denis_Ten	74	5
+Aiya_Shalkar	33	32
+Aiya_Shalkar	25	48
+Aiya_Shalkar	55	54
+Dilnaz_Akhmadiyeva	32	6
+Dilnaz_Akhmadiyeva	13	55
+Dilnaz_Akhmadiyeva	22	29
+Gennadii_Golovkin	14	Aiya_Shalkar	52
+Gennadii_Golovkin	84	Aiya_Shalkar	74
+Gennadii_Golovkin	28	Aiya_Shalkar	13
+Aidana_Medenova	52	Aikyn_Tolepbergen	10
+Aidana_Medenova	30	Aikyn_Tolepbergen	64
+Aidana_Medenova	70	Aikyn_Tolepbergen	52
+Saken_Maigaziyev	45	Karakat_Abildina	13
+Saken_Maigaziyev	17	Karakat_Abildina	18
+Saken_Maigaziyev	43	Karakat_Abildina	87
+Zhanar_Dugalova	41	Iliya_Iliyn	27
+Zhanar_Dugalova	46	Iliya_Iliyn	78
+Zhanar_Dugalova	86	Iliya_Iliyn	20
+Madina_Sadvakasova	53	Asha_Matai	8
+Madina_Sadvakasova	86	Asha_Matai	95
+Madina_Sadvakasova	24	Asha_Matai	62
+Aisaule_Bakhytbek	53	Madina_Sadvakasova	31
+Aisaule_Bakhytbek	39	Madina_Sadvakasova	73
+Aisaule_Bakhytbek	18	Madina_Sadvakasova	50
+Kairat_Nurtas	26	Irada_Ramadanova	37
+Kairat_Nurtas	88	Irada_Ramadanova	56
+Kairat_Nurtas	21	Irada_Ramadanova	74
+Ali_Okapov	6	Aisaule_Bakhytbek	22
+Ali_Okapov	92	Aisaule_Bakhytbek	9
+Ali_Okapov	55	Aisaule_Bakhytbek	65
+Aikyn_Tolepbergen	71	Makpal_Isabekova	37
+Aikyn_Tolepbergen	48	Makpal_Isabekova	98
+Aikyn_Tolepbergen	20	Makpal_Isabekova	72
+Makpal_Isabekova	37	Almas_Kishkenbayev	56
+Makpal_Isabekova	22	Almas_Kishkenbayev	64
+Makpal_Isabekova	61	Almas_Kishkenbayev	96
+Asel_Sagatova	1	Kairat_Nurtas	84
+Asel_Sagatova	10	Kairat_Nurtas	4
+Asel_Sagatova	17	Kairat_Nurtas	39
+Bayan_Esentayeva	54	Aiya_Shalkar	77
+Bayan_Esentayeva	16	Aiya_Shalkar	10
+Bayan_Esentayeva	43	Aiya_Shalkar	51
+Asel_Sadvakasova	47	Zhaniya_Djurinskaya	75
+Asel_Sadvakasova	80	Zhaniya_Djurinskaya	43
+Asel_Sadvakasova	52	Zhaniya_Djurinskaya	15
+Nursultan_Nazarbayev	90	Aikyn_Tolepbergen	32
+Nursultan_Nazarbayev	60	Aikyn_Tolepbergen	77
+Nursultan_Nazarbayev	91	Aikyn_Tolepbergen	31
+Irada_Ramadanova	9	Aiya_Shalkar	13
+Irada_Ramadanova	9	Aiya_Shalkar	96
+Irada_Ramadanova	45	Aiya_Shalkar	96
+Anatoli_Tsoi	87	Zhaniya_Djurinskaya	41
+Anatoli_Tsoi	12	Zhaniya_Djurinskaya	70
+Anatoli_Tsoi	59	Zhaniya_Djurinskaya	36
+Asha_Matai	67	Gennadii_Golovkin	42
+Asha_Matai	86	Gennadii_Golovkin	67
+Asha_Matai	82	Gennadii_Golovkin	8
+Almas_Kishkenbayev	17	Aidana_Medenova	44
+Almas_Kishkenbayev	10	Aidana_Medenova	61
+Almas_Kishkenbayev	76	Aidana_Medenova	48
+Iliya_Iliyn	71	Asel_Sadvakasova	60
+Iliya_Iliyn	6	Asel_Sadvakasova	50
+Iliya_Iliyn	67	Asel_Sadvakasova	65
+Zhaniya_Djurinskaya	4	Aisaule_Bakhytbek	36
+Zhaniya_Djurinskaya	40	Aisaule_Bakhytbek	47
+Zhaniya_Djurinskaya	75	Aisaule_Bakhytbek	11
+Karakat_Abildina	53	Irada_Ramadanova	8
+Karakat_Abildina	44	Irada_Ramadanova	33
+Karakat_Abildina	81	Irada_Ramadanova	35
+Denis_Ten	39	Makpal_Isabekova	53
+Denis_Ten	82	Makpal_Isabekova	70
+Denis_Ten	51	Makpal_Isabekova	28
+Aiya_Shalkar	51	Dilnaz_Akhmadiyeva	72
+Aiya_Shalkar	45	Dilnaz_Akhmadiyeva	76
+Aiya_Shalkar	77	Dilnaz_Akhmadiyeva	68
+Dilnaz_Akhmadiyeva	17	Bayan_Esentayeva	93
+Dilnaz_Akhmadiyeva	1	Bayan_Esentayeva	34
+Dilnaz_Akhmadiyeva	56	Bayan_Esentayeva	10
+Gennadii_Golovkin	7	61
+Gennadii_Golovkin	54	13
+Gennadii_Golovkin	27	87
+Aidana_Medenova	12	68
+Aidana_Medenova	19	39
+Aidana_Medenova	58	65
+Saken_Maigaziyev	9	33
+Saken_Maigaziyev	36	68
+Saken_Maigaziyev	28	65
+Zhanar_Dugalova	13	87
+Zhanar_Dugalova	48	5
+Zhanar_Dugalova	12	50
+Madina_Sadvakasova	75	43
+Madina_Sadvakasova	13	87
+Madina_Sadvakasova	1	19
+Aisaule_Bakhytbek	65	53
+Aisaule_Bakhytbek	33	64
+Aisaule_Bakhytbek	65	37
+Kairat_Nurtas	93	64
+Kairat_Nurtas	79	77
+Kairat_Nurtas	58	51
+Ali_Okapov	20	86
+Ali_Okapov	32	66
+Ali_Okapov	85	8
+Aikyn_Tolepbergen	74	78
+Aikyn_Tolepbergen	1	69
+Aikyn_Tolepbergen	13	36
+Makpal_Isabekova	11	53
+Makpal_Isabekova	26	84
+Makpal_Isabekova	30	73
+Asel_Sagatova	78	37
+Asel_Sagatova	23	48
+Asel_Sagatova	72	11
+Bayan_Esentayeva	41	78
+Bayan_Esentayeva	19	76
+Bayan_Esentayeva	55	68
+Asel_Sadvakasova	59	11
+Asel_Sadvakasova	44	18
+Asel_Sadvakasova	20	87
+Nursultan_Nazarbayev	64	49
+Nursultan_Nazarbayev	93	22
+Nursultan_Nazarbayev	92	39
+Irada_Ramadanova	34	15
+Irada_Ramadanova	24	2
+Irada_Ramadanova	28	66
+Anatoli_Tsoi	46	17
+Anatoli_Tsoi	83	1
+Anatoli_Tsoi	25	88
+Asha_Matai	50	29
+Asha_Matai	30	23
+Asha_Matai	62	44
+Almas_Kishkenbayev	35	26
+Almas_Kishkenbayev	7	62
+Almas_Kishkenbayev	90	36
+Iliya_Iliyn	24	43
+Iliya_Iliyn	2	16
+Iliya_Iliyn	75	24
+Zhaniya_Djurinskaya	77	34
+Zhaniya_Djurinskaya	8	30
+Zhaniya_Djurinskaya	53	57
+Karakat_Abildina	74	16
+Karakat_Abildina	24	65
+Karakat_Abildina	45	17
+Denis_Ten	5	19
+Denis_Ten	45	33
+Denis_Ten	32	28
+Aiya_Shalkar	13	26
+Aiya_Shalkar	93	15
+Aiya_Shalkar	1	32
+Dilnaz_Akhmadiyeva	64	85
+Dilnaz_Akhmadiyeva	20	84
+Dilnaz_Akhmadiyeva	78	50
+Gennadii_Golovkin	84	Makpal_Isabekova	63
+Gennadii_Golovkin	92	Makpal_Isabekova	37
+Gennadii_Golovkin	50	Makpal_Isabekova	91
+Aidana_Medenova	69	Gennadii_Golovkin	58
+Aidana_Medenova	56	Gennadii_Golovkin	52
+Aidana_Medenova	46	Gennadii_Golovkin	27
+Saken_Maigaziyev	68	Nursultan_Nazarbayev	4
+Saken_Maigaziyev	85	Nursultan_Nazarbayev	3
+Saken_Maigaziyev	1	Nursultan_Nazarbayev	37
+Zhanar_Dugalova	10	Gennadii_Golovkin	62
+Zhanar_Dugalova	93	Gennadii_Golovkin	85
+Zhanar_Dugalova	79	Gennadii_Golovkin	7
+Madina_Sadvakasova	91	Asha_Matai	95
+Madina_Sadvakasova	20	Asha_Matai	84
+Madina_Sadvakasova	2	Asha_Matai	93
+Aisaule_Bakhytbek	9	Zhaniya_Djurinskaya	14
+Aisaule_Bakhytbek	32	Zhaniya_Djurinskaya	22
+Aisaule_Bakhytbek	5	Zhaniya_Djurinskaya	73
+Kairat_Nurtas	56	Madina_Sadvakasova	91
+Kairat_Nurtas	93	Madina_Sadvakasova	13
+Kairat_Nurtas	4	Madina_Sadvakasova	32
+Ali_Okapov	50	Aisaule_Bakhytbek	17
+Ali_Okapov	48	Aisaule_Bakhytbek	51
+Ali_Okapov	67	Aisaule_Bakhytbek	48
+Aikyn_Tolepbergen	64	Irada_Ramadanova	74
+Aikyn_Tolepbergen	51	Irada_Ramadanova	17
+Aikyn_Tolepbergen	58	Irada_Ramadanova	77
+Makpal_Isabekova	74	Aisaule_Bakhytbek	1
+Makpal_Isabekova	95	Aisaule_Bakhytbek	34
+Makpal_Isabekova	35	Aisaule_Bakhytbek	59
+Asel_Sagatova	76	Almas_Kishkenbayev	69
+Asel_Sagatova	86	Almas_Kishkenbayev	42
+Asel_Sagatova	92	Almas_Kishkenbayev	64
+Bayan_Esentayeva	32	Aiya_Shalkar	72
+Bayan_Esentayeva	21	Aiya_Shalkar	40
+Bayan_Esentayeva	28	Aiya_Shalkar	19
+Asel_Sadvakasova	51	Denis_Ten	75
+Asel_Sadvakasova	20	Denis_Ten	13
+Asel_Sadvakasova	29	Denis_Ten	19
+Nursultan_Nazarbayev	101	Kairat_Nurtas	8
+Nursultan_Nazarbayev	81	Kairat_Nurtas	69
+Nursultan_Nazarbayev	54	Kairat_Nurtas	78
+Irada_Ramadanova	55	Aikyn_Tolepbergen	14
+Irada_Ramadanova	35	Aikyn_Tolepbergen	25
+Irada_Ramadanova	67	Aikyn_Tolepbergen	74
+Anatoli_Tsoi	55	Zhaniya_Djurinskaya	75
+Anatoli_Tsoi	13	Zhaniya_Djurinskaya	23
+Anatoli_Tsoi	91	Zhaniya_Djurinskaya	53
+Asha_Matai	75	Denis_Ten	11
+Asha_Matai	14	Denis_Ten	47
+Asha_Matai	18	Denis_Ten	53
+Almas_Kishkenbayev	71	Madina_Sadvakasova	70
+Almas_Kishkenbayev	95	Madina_Sadvakasova	40
+Almas_Kishkenbayev	91	Madina_Sadvakasova	89
+Iliya_Iliyn	27	Iliya_Iliyn	37
+Iliya_Iliyn	12	Iliya_Iliyn	34
+Iliya_Iliyn	71	Iliya_Iliyn	41
+Zhaniya_Djurinskaya	86	Asel_Sadvakasova	18
+Zhaniya_Djurinskaya	56	Asel_Sadvakasova	43
+Zhaniya_Djurinskaya	47	Asel_Sadvakasova	52
+Karakat_Abildina	57	Anatoli_Tsoi	2
+Karakat_Abildina	63	Anatoli_Tsoi	39
+Karakat_Abildina	8	Anatoli_Tsoi	3
+Denis_Ten	15	Iliya_Iliyn	59
+Denis_Ten	50	Iliya_Iliyn	93
+Denis_Ten	47	Iliya_Iliyn	92
+Aiya_Shalkar	20	Asel_Sadvakasova	14
+Aiya_Shalkar	74	Asel_Sadvakasova	39
+Aiya_Shalkar	63	Asel_Sadvakasova	63
+Dilnaz_Akhmadiyeva	85	Gennadii_Golovkin	79
+Dilnaz_Akhmadiyeva	38	Gennadii_Golovkin	60
+Dilnaz_Akhmadiyeva	49	Gennadii_Golovkin	76
+Gennadii_Golovkin	22	21
+Gennadii_Golovkin	57	13
+Gennadii_Golovkin	74	91
+Aidana_Medenova	9	57
+Aidana_Medenova	23	3
+Aidana_Medenova	45	53
+Saken_Maigaziyev	66	69
+Saken_Maigaziyev	5	8
+Saken_Maigaziyev	20	27
+Zhanar_Dugalova	73	4
+Zhanar_Dugalova	93	81
+Zhanar_Dugalova	37	17
+Madina_Sadvakasova	55	65
+Madina_Sadvakasova	93	87
+Madina_Sadvakasova	38	42
+Aisaule_Bakhytbek	36	29
+Aisaule_Bakhytbek	11	59
+Aisaule_Bakhytbek	15	64
+Kairat_Nurtas	35	29
+Kairat_Nurtas	57	43
+Kairat_Nurtas	70	57
+Ali_Okapov	84	71
+Ali_Okapov	93	28
+Ali_Okapov	18	86
+Aikyn_Tolepbergen	16	60
+Aikyn_Tolepbergen	53	2
+Aikyn_Tolepbergen	63	68
+Makpal_Isabekova	30	75
+Makpal_Isabekova	9	39
+Makpal_Isabekova	18	66
+Asel_Sagatova	57	6
+Asel_Sagatova	29	53
+Asel_Sagatova	19	8
+Bayan_Esentayeva	86	31
+Bayan_Esentayeva	94	16
+Bayan_Esentayeva	36	70
+Asel_Sadvakasova	29	76
+Asel_Sadvakasova	63	64
+Asel_Sadvakasova	47	35
+Nursultan_Nazarbayev	34	42
+Nursultan_Nazarbayev	79	74
+Nursultan_Nazarbayev	17	54
+Irada_Ramadanova	73	73
+Irada_Ramadanova	19	67
+Irada_Ramadanova	26	20
+Anatoli_Tsoi	64	28
+Anatoli_Tsoi	9	27
+Anatoli_Tsoi	24	52
+Asha_Matai	30	35
+Asha_Matai	27	44
+Asha_Matai	62	51
+Almas_Kishkenbayev	60	74
+Almas_Kishkenbayev	16	45
+Almas_Kishkenbayev	51	81
+Iliya_Iliyn	4	9
+Iliya_Iliyn	65	46
+Iliya_Iliyn	38	50
+Zhaniya_Djurinskaya	65	52
+Zhaniya_Djurinskaya	26	40
+Zhaniya_Djurinskaya	32	69
+Karakat_Abildina	40	25
+Karakat_Abildina	20	22
+Karakat_Abildina	9	60
+Denis_Ten	8	56
+Denis_Ten	91	65
+Denis_Ten	7	34
+Aiya_Shalkar	77	46
+Aiya_Shalkar	88	81
+Aiya_Shalkar	44	75
+Dilnaz_Akhmadiyeva	32	36
+Dilnaz_Akhmadiyeva	57	66
+Dilnaz_Akhmadiyeva	78	55
+Gennadii_Golovkin	17	Asel_Sadvakasova	84
+Gennadii_Golovkin	91	Asel_Sadvakasova	1
+Gennadii_Golovkin	82	Asel_Sadvakasova	69
+Aidana_Medenova	5	Ali_Okapov	46
+Aidana_Medenova	61	Ali_Okapov	50
+Aidana_Medenova	19	Ali_Okapov	82
+Saken_Maigaziyev	38	Karakat_Abildina	21
+Saken_Maigaziyev	31	Karakat_Abildina	19
+Saken_Maigaziyev	20	Karakat_Abildina	31
+Zhanar_Dugalova	7	Bayan_Esentayeva	66
+Zhanar_Dugalova	68	Bayan_Esentayeva	49
+Zhanar_Dugalova	65	Bayan_Esentayeva	11
+Madina_Sadvakasova	74	Asel_Sadvakasova	20
+Madina_Sadvakasova	15	Asel_Sadvakasova	6
+Madina_Sadvakasova	78	Asel_Sadvakasova	39
+Aisaule_Bakhytbek	69	Madina_Sadvakasova	46
+Aisaule_Bakhytbek	31	Madina_Sadvakasova	3
+Aisaule_Bakhytbek	7	Madina_Sadvakasova	11
+Kairat_Nurtas	95	Dilnaz_Akhmadiyeva	67
+Kairat_Nurtas	14	Dilnaz_Akhmadiyeva	84
+Kairat_Nurtas	62	Dilnaz_Akhmadiyeva	37
+Ali_Okapov	78	Aidana_Medenova	19
+Ali_Okapov	51	Aidana_Medenova	53
+Ali_Okapov	29	Aidana_Medenova	3
+Aikyn_Tolepbergen	51	Anatoli_Tsoi	8
+Aikyn_Tolepbergen	43	Anatoli_Tsoi	46
+Aikyn_Tolepbergen	8	Anatoli_Tsoi	24
+Makpal_Isabekova	62	Aisaule_Bakhytbek	21
+Makpal_Isabekova	63	Aisaule_Bakhytbek	9
+Makpal_Isabekova	91	Aisaule_Bakhytbek	62
+Asel_Sagatova	95	Asel_Sagatova	44
+Asel_Sagatova	9	Asel_Sagatova	36
+Asel_Sagatova	41	Asel_Sagatova	24
+Bayan_Esentayeva	1	Kairat_Nurtas	29
+Bayan_Esentayeva	69	Kairat_Nurtas	60
+Bayan_Esentayeva	55	Kairat_Nurtas	32
+Asel_Sadvakasova	90	Zhanar_Dugalova	66
+Asel_Sadvakasova	26	Zhanar_Dugalova	9
+Asel_Sadvakasova	92	Zhanar_Dugalova	51
+Nursultan_Nazarbayev	42	Aiya_Shalkar	21
+Nursultan_Nazarbayev	101	Aiya_Shalkar	18
+Nursultan_Nazarbayev	98	Aiya_Shalkar	5
+Irada_Ramadanova	57	Almas_Kishkenbayev	76
+Irada_Ramadanova	75	Almas_Kishkenbayev	88
+Irada_Ramadanova	32	Almas_Kishkenbayev	44
+Anatoli_Tsoi	59	Karakat_Abildina	1
+Anatoli_Tsoi	63	Karakat_Abildina	61
+Anatoli_Tsoi	3	Karakat_Abildina	4
+Asha_Matai	28	Aikyn_Tolepbergen	41
+Asha_Matai	93	Aikyn_Tolepbergen	36
+Asha_Matai	3	Aikyn_Tolepbergen	22
+Almas_Kishkenbayev	69	Karakat_Abildina	55
+Almas_Kishkenbayev	23	Karakat_Abildina	47
+Almas_Kishkenbayev	57	Karakat_Abildina	57
+Iliya_Iliyn	73	Aidana_Medenova	16
+Iliya_Iliyn	66	Aidana_Medenova	23
+Iliya_Iliyn	78	Aidana_Medenova	24
+Zhaniya_Djurinskaya	73	Asel_Sadvakasova	45
+Zhaniya_Djurinskaya	14	Asel_Sadvakasova	65
+Zhaniya_Djurinskaya	36	Asel_Sadvakasova	84
+Karakat_Abildina	82	Nursultan_Nazarbayev	43
+Karakat_Abildina	43	Nursultan_Nazarbayev	25
+Karakat_Abildina	76	Nursultan_Nazarbayev	70
+Denis_Ten	95	Saken_Maigaziyev	69
+Denis_Ten	62	Saken_Maigaziyev	35
+Denis_Ten	79	Saken_Maigaziyev	44
+Aiya_Shalkar	95	Zhaniya_Djurinskaya	91
+Aiya_Shalkar	69	Zhaniya_Djurinskaya	1
+Aiya_Shalkar	14	Zhaniya_Djurinskaya	59
+Dilnaz_Akhmadiyeva	39	Almas_Kishkenbayev	68
+Dilnaz_Akhmadiyeva	1	Almas_Kishkenbayev	8
+Dilnaz_Akhmadiyeva	20	Almas_Kishkenbayev	88
+Gennadii_Golovkin	91	16
+Gennadii_Golovkin	1	80
+Gennadii_Golovkin	85	20
+Aidana_Medenova	38	21
+Aidana_Medenova	62	31
+Aidana_Medenova	28	32
+Saken_Maigaziyev	27	70
+Saken_Maigaziyev	16	62
+Saken_Maigaziyev	4	53
+Zhanar_Dugalova	34	11
+Zhanar_Dugalova	22	38
+Zhanar_Dugalova	57	51
+Madina_Sadvakasova	90	56
+Madina_Sadvakasova	93	34
+Madina_Sadvakasova	84	13
+Aisaule_Bakhytbek	41	45
+Aisaule_Bakhytbek	10	34
+Aisaule_Bakhytbek	2	65
+Kairat_Nurtas	95	84
+Kairat_Nurtas	17	25
+Kairat_Nurtas	40	36
+Ali_Okapov	30	27
+Ali_Okapov	71	30
+Ali_Okapov	45	45
+Aikyn_Tolepbergen	75	23
+Aikyn_Tolepbergen	74	31
+Aikyn_Tolepbergen	24	37
+Makpal_Isabekova	22	7
+Makpal_Isabekova	20	9
+Makpal_Isabekova	47	30
+Asel_Sagatova	73	10
+Asel_Sagatova	60	9
+Asel_Sagatova	44	95
+Bayan_Esentayeva	18	29
+Bayan_Esentayeva	82	32
+Bayan_Esentayeva	11	26
+Asel_Sadvakasova	64	92
+Asel_Sadvakasova	84	61
+Asel_Sadvakasova	66	95
+Nursultan_Nazarbayev	62	26
+Nursultan_Nazarbayev	90	58
+Nursultan_Nazarbayev	34	34
+Irada_Ramadanova	29	42
+Irada_Ramadanova	50	7
+Irada_Ramadanova	47	47
+Anatoli_Tsoi	65	65
+Anatoli_Tsoi	49	87
+Anatoli_Tsoi	26	1
+Asha_Matai	70	71
+Asha_Matai	63	88
+Asha_Matai	15	15
+Almas_Kishkenbayev	87	74
+Almas_Kishkenbayev	34	30
+Almas_Kishkenbayev	72	79
+Iliya_Iliyn	47	27
+Iliya_Iliyn	80	4
+Iliya_Iliyn	50	46
+Zhaniya_Djurinskaya	47	49
+Zhaniya_Djurinskaya	32	74
+Zhaniya_Djurinskaya	86	79
+Karakat_Abildina	43	85
+Karakat_Abildina	17	41
+Karakat_Abildina	89	68
+Denis_Ten	62	17
+Denis_Ten	19	72
+Denis_Ten	38	5
+Aiya_Shalkar	11	7
+Aiya_Shalkar	35	58
+Aiya_Shalkar	12	57
+Dilnaz_Akhmadiyeva	89	76
+Dilnaz_Akhmadiyeva	22	52
+Dilnaz_Akhmadiyeva	29	37
+Gennadii_Golovkin	10	Makpal_Isabekova	90
+Gennadii_Golovkin	64	Makpal_Isabekova	72
+Gennadii_Golovkin	9	Makpal_Isabekova	74
+Aidana_Medenova	59	Zhaniya_Djurinskaya	17
+Aidana_Medenova	79	Zhaniya_Djurinskaya	57
+Aidana_Medenova	67	Zhaniya_Djurinskaya	57
+Saken_Maigaziyev	83	Madina_Sadvakasova	7
+Saken_Maigaziyev	44	Madina_Sadvakasova	28
+Saken_Maigaziyev	45	Madina_Sadvakasova	41
+Zhanar_Dugalova	76	Makpal_Isabekova	60
+Zhanar_Dugalova	42	Makpal_Isabekova	61
+Zhanar_Dugalova	70	Makpal_Isabekova	77
+Madina_Sadvakasova	86	Zhaniya_Djurinskaya	55
+Madina_Sadvakasova	47	Zhaniya_Djurinskaya	26
+Madina_Sadvakasova	17	Zhaniya_Djurinskaya	8
+Aisaule_Bakhytbek	11	Asha_Matai	51
+Aisaule_Bakhytbek	51	Asha_Matai	47
+Aisaule_Bakhytbek	12	Asha_Matai	92
+Kairat_Nurtas	14	Zhaniya_Djurinskaya	68
+Kairat_Nurtas	11	Zhaniya_Djurinskaya	18
+Kairat_Nurtas	38	Zhaniya_Djurinskaya	5
+Ali_Okapov	30	Aisaule_Bakhytbek	48
+Ali_Okapov	90	Aisaule_Bakhytbek	30
+Ali_Okapov	19	Aisaule_Bakhytbek	1
+Aikyn_Tolepbergen	78	Dilnaz_Akhmadiyeva	27
+Aikyn_Tolepbergen	5	Dilnaz_Akhmadiyeva	24
+Aikyn_Tolepbergen	63	Dilnaz_Akhmadiyeva	87
+Makpal_Isabekova	20	Anatoli_Tsoi	56
+Makpal_Isabekova	93	Anatoli_Tsoi	19
+Makpal_Isabekova	24	Anatoli_Tsoi	31
+Asel_Sagatova	56	Asel_Sadvakasova	19
+Asel_Sagatova	76	Asel_Sadvakasova	76
+Asel_Sagatova	64	Asel_Sadvakasova	47
+Bayan_Esentayeva	74	Nursultan_Nazarbayev	81
+Bayan_Esentayeva	48	Nursultan_Nazarbayev	72
+Bayan_Esentayeva	60	Nursultan_Nazarbayev	82
+Asel_Sadvakasova	77	Asha_Matai	74
+Asel_Sadvakasova	68	Asha_Matai	64
+Asel_Sadvakasova	64	Asha_Matai	4
+Nursultan_Nazarbayev	89	Asel_Sagatova	54
+Nursultan_Nazarbayev	64	Asel_Sagatova	62
+Nursultan_Nazarbayev	4	Asel_Sagatova	74
+Irada_Ramadanova	17	Asel_Sagatova	54
+Irada_Ramadanova	21	Asel_Sagatova	93
+Irada_Ramadanova	19	Asel_Sagatova	50
+Anatoli_Tsoi	86	Asel_Sadvakasova	46
+Anatoli_Tsoi	39	Asel_Sadvakasova	22
+Anatoli_Tsoi	15	Asel_Sadvakasova	25
+Asha_Matai	7	Asha_Matai	39
+Asha_Matai	68	Asha_Matai	55
+Asha_Matai	41	Asha_Matai	93
+Almas_Kishkenbayev	18	Irada_Ramadanova	47
+Almas_Kishkenbayev	55	Irada_Ramadanova	74
+Almas_Kishkenbayev	85	Irada_Ramadanova	51
+Iliya_Iliyn	49	Gennadii_Golovkin	11
+Iliya_Iliyn	71	Gennadii_Golovkin	77
+Iliya_Iliyn	34	Gennadii_Golovkin	46
+Zhaniya_Djurinskaya	43	Makpal_Isabekova	59
+Zhaniya_Djurinskaya	88	Makpal_Isabekova	13
+Zhaniya_Djurinskaya	88	Makpal_Isabekova	60
+Karakat_Abildina	84	Dilnaz_Akhmadiyeva	22
+Karakat_Abildina	90	Dilnaz_Akhmadiyeva	65
+Karakat_Abildina	14	Dilnaz_Akhmadiyeva	37
+Denis_Ten	54	Zhaniya_Djurinskaya	80
+Denis_Ten	59	Zhaniya_Djurinskaya	33
+Denis_Ten	74	Zhaniya_Djurinskaya	47
+Aiya_Shalkar	37	Zhaniya_Djurinskaya	58
+Aiya_Shalkar	9	Zhaniya_Djurinskaya	51
+Aiya_Shalkar	10	Zhaniya_Djurinskaya	42
+Dilnaz_Akhmadiyeva	21	Zhanar_Dugalova	88
+Dilnaz_Akhmadiyeva	31	Zhanar_Dugalova	27
+Dilnaz_Akhmadiyeva	77	Zhanar_Dugalova	25
+Gennadii_Golovkin	59	68
+Gennadii_Golovkin	92	49
+Gennadii_Golovkin	47	45
+Aidana_Medenova	12	55
+Aidana_Medenova	36	33
+Aidana_Medenova	47	25
+Saken_Maigaziyev	14	43
+Saken_Maigaziyev	45	86
+Saken_Maigaziyev	32	56
+Zhanar_Dugalova	14	20
+Zhanar_Dugalova	77	36
+Zhanar_Dugalova	56	51
+Madina_Sadvakasova	66	8
+Madina_Sadvakasova	59	53
+Madina_Sadvakasova	72	93
+Aisaule_Bakhytbek	45	14
+Aisaule_Bakhytbek	31	61
+Aisaule_Bakhytbek	19	1
+Kairat_Nurtas	1	92
+Kairat_Nurtas	83	42
+Kairat_Nurtas	48	74
+Ali_Okapov	10	28
+Ali_Okapov	92	8
+Ali_Okapov	33	44
+Aikyn_Tolepbergen	67	69
+Aikyn_Tolepbergen	12	15
+Aikyn_Tolepbergen	41	56
+Makpal_Isabekova	87	67
+Makpal_Isabekova	19	19
+Makpal_Isabekova	57	60
+Asel_Sagatova	87	52
+Asel_Sagatova	69	88
+Asel_Sagatova	75	94
+Bayan_Esentayeva	14	8
+Bayan_Esentayeva	17	56
+Bayan_Esentayeva	89	21
+Asel_Sadvakasova	93	1
+Asel_Sadvakasova	50	46
+Asel_Sadvakasova	31	21
+Nursultan_Nazarbayev	55	15
+Nursultan_Nazarbayev	23	76
+Nursultan_Nazarbayev	23	37
+Irada_Ramadanova	54	17
+Irada_Ramadanova	47	51
+Irada_Ramadanova	55	61
+Anatoli_Tsoi	19	25
+Anatoli_Tsoi	4	73
+Anatoli_Tsoi	62	22
+Asha_Matai	9	69
+Asha_Matai	90	76
+Asha_Matai	11	70
+Almas_Kishkenbayev	14	76
+Almas_Kishkenbayev	86	18
+Almas_Kishkenbayev	91	80
+Iliya_Iliyn	18	85
+Iliya_Iliyn	13	23
+Iliya_Iliyn	37	60
+Zhaniya_Djurinskaya	83	36
+Zhaniya_Djurinskaya	82	17
+Zhaniya_Djurinskaya	12	2
+Karakat_Abildina	35	76
+Karakat_Abildina	48	55
+Karakat_Abildina	74	47
+Denis_Ten	9	95
+Denis_Ten	22	24
+Denis_Ten	3	34
+Aiya_Shalkar	6	13
+Aiya_Shalkar	22	8
+Aiya_Shalkar	67	39
+Dilnaz_Akhmadiyeva	68	40
+Dilnaz_Akhmadiyeva	53	58
+Dilnaz_Akhmadiyeva	33	2
+Gennadii_Golovkin	67	Madina_Sadvakasova	89
+Gennadii_Golovkin	60	Madina_Sadvakasova	55
+Gennadii_Golovkin	4	Madina_Sadvakasova	60
+Aidana_Medenova	78	Asel_Sagatova	82
+Aidana_Medenova	17	Asel_Sagatova	37
+Aidana_Medenova	23	Asel_Sagatova	53
+Saken_Maigaziyev	38	Madina_Sadvakasova	8
+Saken_Maigaziyev	57	Madina_Sadvakasova	2
+Saken_Maigaziyev	83	Madina_Sadvakasova	88
+Zhanar_Dugalova	87	Aiya_Shalkar	84
+Zhanar_Dugalova	57	Aiya_Shalkar	83
+Zhanar_Dugalova	35	Aiya_Shalkar	70
+Madina_Sadvakasova	57	Zhanar_Dugalova	19
+Madina_Sadvakasova	28	Zhanar_Dugalova	32
+Madina_Sadvakasova	56	Zhanar_Dugalova	12
+Aisaule_Bakhytbek	63	Madina_Sadvakasova	16
+Aisaule_Bakhytbek	47	Madina_Sadvakasova	52
+Aisaule_Bakhytbek	5	Madina_Sadvakasova	69
+Kairat_Nurtas	90	Aiya_Shalkar	85
+Kairat_Nurtas	60	Aiya_Shalkar	63
+Kairat_Nurtas	63	Aiya_Shalkar	20
+Ali_Okapov	43	Ali_Okapov	72
+Ali_Okapov	32	Ali_Okapov	65
+Ali_Okapov	31	Ali_Okapov	26
+Aikyn_Tolepbergen	58	Iliya_Iliyn	57
+Aikyn_Tolepbergen	36	Iliya_Iliyn	29
+Aikyn_Tolepbergen	39	Iliya_Iliyn	43
+Makpal_Isabekova	73	Kairat_Nurtas	45
+Makpal_Isabekova	77	Kairat_Nurtas	66
+Makpal_Isabekova	92	Kairat_Nurtas	39
+Asel_Sagatova	48	Asha_Matai	75
+Asel_Sagatova	33	Asha_Matai	43
+Asel_Sagatova	39	Asha_Matai	16
+Bayan_Esentayeva	88	Zhanar_Dugalova	41
+Bayan_Esentayeva	23	Zhanar_Dugalova	69
+Bayan_Esentayeva	16	Zhanar_Dugalova	94
+Asel_Sadvakasova	31	Almas_Kishkenbayev	83
+Asel_Sadvakasova	92	Almas_Kishkenbayev	60
+Asel_Sadvakasova	62	Almas_Kishkenbayev	67
+Nursultan_Nazarbayev	38	Iliya_Iliyn	23
+Nursultan_Nazarbayev	73	Iliya_Iliyn	45
+Nursultan_Nazarbayev	5	Iliya_Iliyn	64
+Irada_Ramadanova	41	Nursultan_Nazarbayev	84
+Irada_Ramadanova	34	Nursultan_Nazarbayev	13
+Irada_Ramadanova	41	Nursultan_Nazarbayev	80
+Anatoli_Tsoi	75	Dilnaz_Akhmadiyeva	81
+Anatoli_Tsoi	48	Dilnaz_Akhmadiyeva	14
+Anatoli_Tsoi	42	Dilnaz_Akhmadiyeva	63
+Asha_Matai	27	Denis_Ten	31
+Asha_Matai	83	Denis_Ten	52
+Asha_Matai	71	Denis_Ten	61
+Almas_Kishkenbayev	94	Aisaule_Bakhytbek	39
+Almas_Kishkenbayev	92	Aisaule_Bakhytbek	30
+Almas_Kishkenbayev	63	Aisaule_Bakhytbek	30
+Iliya_Iliyn	7	Aikyn_Tolepbergen	69
+Iliya_Iliyn	33	Aikyn_Tolepbergen	69
+Iliya_Iliyn	89	Aikyn_Tolepbergen	30
+Zhaniya_Djurinskaya	52	Aiya_Shalkar	12
+Zhaniya_Djurinskaya	54	Aiya_Shalkar	68
+Zhaniya_Djurinskaya	86	Aiya_Shalkar	88
+Karakat_Abildina	30	Almas_Kishkenbayev	27
+Karakat_Abildina	84	Almas_Kishkenbayev	42
+Karakat_Abildina	77	Almas_Kishkenbayev	46
+Denis_Ten	10	Madina_Sadvakasova	25
+Denis_Ten	74	Madina_Sadvakasova	9
+Denis_Ten	57	Madina_Sadvakasova	89
+Aiya_Shalkar	49	Ali_Okapov	29
+Aiya_Shalkar	84	Ali_Okapov	50
+Aiya_Shalkar	34	Ali_Okapov	62
+Dilnaz_Akhmadiyeva	77	Kairat_Nurtas	90
+Dilnaz_Akhmadiyeva	17	Kairat_Nurtas	82
+Dilnaz_Akhmadiyeva	59	Kairat_Nurtas	42

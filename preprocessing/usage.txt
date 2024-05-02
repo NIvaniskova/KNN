@@ -1,0 +1,1 @@
+python gen_pairs_lfw.py --data-dir our_dataset/ --txt-file pairs.txt
