@@ -1,1 +1,10 @@
+VYGENEROVANIE pairs.txt
+
 python gen_pairs_lfw.py --data-dir our_dataset/ --txt-file pairs.txt
+
+
+VYGENEROVANIE bin files
+- treba pridat pairs.txt do adresara s datami
+
+python3 dataset2bin.py --data-dir our_dataset --image-size 112,112 --output bin_file.bin
+
