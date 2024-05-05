@@ -87,6 +87,6 @@ if __name__ == '__main__':
     data_dir = args.data_dir  # "out_data_crop/"
     pairs_filepath = args.txt_file  # "pairs_1.txt"
 
-    img_ext = ".png"
+    img_ext = ".jpg"
     generatePairs = GeneratePairs(data_dir, pairs_filepath, img_ext)
     generatePairs.generate()

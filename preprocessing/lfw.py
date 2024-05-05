@@ -50,12 +50,12 @@ def get_paths(lfw_dir, pairs):
     for pair in pairs:
 
         if len(pair) == 3:
-            _sizes = [5 if int(pair[i]) >= 100 else 4 for i in [1, 2]]
+            _sizes = [4 if int(pair[i]) >= 100 else 4 for i in [1, 2]]
             path0 = add_extension(os.path.join(lfw_dir, pair[0], pair[0] + '_' + (f'%0{_sizes[0]}d') % int(pair[1])))
             path1 = add_extension(os.path.join(lfw_dir, pair[0], pair[0] + '_' + (f'%0{_sizes[1]}d') % int(pair[2])))
             issame = True
         elif len(pair) == 4:
-            _sizes = [5 if int(pair[i]) >= 100 else 4 for i in [1, 3]]
+            _sizes = [4 if int(pair[i]) >= 100 else 4 for i in [1, 3]]
             path0 = add_extension(os.path.join(lfw_dir, pair[0], pair[0] + '_' + (f'%0{_sizes[0]}d') % int(pair[1])))
             path1 = add_extension(os.path.join(lfw_dir, pair[2], pair[2] + '_' + (f'%0{_sizes[1]}d') % int(pair[3])))
             issame = False
@@ -84,6 +84,3 @@ def read_pairs(pairs_filename):
             pair = line.strip().split()
             pairs.append(pair)
     return np.array(pairs)
-
-
-

@@ -8,7 +8,7 @@ import numpy as np
 from pathlib import Path
 
 def load_img(path_to_img):
-  max_dim = 512
+  max_dim = 512 # todo isn't this what caused the size incompatibility??
   img = tf.io.read_file(path_to_img)
   img = tf.image.decode_image(img, channels=3)
   img = tf.image.convert_image_dtype(img, tf.float32)

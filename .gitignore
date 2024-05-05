@@ -1,3 +1,12 @@
 .DS_Store
-images.zip
+*.zip
 images
+*.bin
+*.lst
+*.rec
+*.idx
+*train
+*test
+*val
+
+__pycache__/
