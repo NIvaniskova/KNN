@@ -15,7 +15,7 @@ def resize_images(from_dir: str):
             if filename.endswith(".jpg"):
                 with Image.open(os.path.join(from_dir, identity_dir, filename)) as img:
                     resized_img = img.resize((112, 112))
-                    resized_img.save(os.path.join(from_dir, identity_dir, filename))
+                    resized_img.save(os.path.join(f"resized_{from_dir}", identity_dir, filename))
 
     print(f"Removing {from_dir}...")
     shutil.rmtree(from_dir)
@@ -76,7 +76,7 @@ if __name__ == "__main__":
             resize_images(f"{split}")
 
     if args.bin or args.all:
-        for split in ["test", "val"]:
+        for split in ["tiny_test", "tiny_val"]:
             print(f"Generating pairs.txt for {split}...")
             os.system(f"python gen_pairs_lfw.py --data-dir {split}/ --txt-file pairs.txt")
             print(f"Moving pairs.txt to {split}/...")
@@ -85,8 +85,11 @@ if __name__ == "__main__":
             print(f"Creating {split}.bin...")
             os.system(f"python dataset2bin.py --data-dir {split}/ --image-size 112,112 --output {split}.bin")
 
-    # if args.rec or args.all:
-    #      print("Creating 'lst' files for the training split...")
-    #     os.system("python im2rec.py --list --exts .jpg --recursive train ./train")
-    #     print("Creating 'rec' and 'idx' files for the training split...")
-    #     os.system("python im2rec.py train ./train")
+    if args.rec or args.all:
+        print("Creating 'lst' files for the training split...")
+        os.system("python im2rec.py --list --exts .jpg --recursive tiny_train ./tiny_train")
+        os.system("mv tiny_train.lst tiny_train/")
+
+        print("Creating 'rec' and 'idx' files for the training split...")
+        os.system("python im2rec.py tiny_train ./tiny_train")
+        os.system("mv tiny_train/tiny_train.* .")
