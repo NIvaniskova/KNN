@@ -5,8 +5,13 @@ images
 *.lst
 *.rec
 *.idx
-*train
-*test
-*val
+*train*
+*test*
+*val*
+!tiny_train
+!tiny_test
+!tiny_val
+
+style_images_alhpabetically
 
 __pycache__/

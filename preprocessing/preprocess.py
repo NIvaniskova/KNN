@@ -5,6 +5,12 @@ import shutil
 
 
 def resize_images(from_dir: str):
+    """
+    Resizes all images in the given directory to 112x112. Creates temporary directory and after resizing all images
+    removes the original directory and renames the temporary directory to match the original directory.
+
+    :param from_dir: directory containing the images to be resized
+    """
     os.makedirs(f"resized_{from_dir}", exist_ok=True)
 
     for identity_dir in os.listdir(from_dir):
@@ -25,6 +31,12 @@ def resize_images(from_dir: str):
 
 
 def rename_to_match_facenet(from_dir: str):
+    """
+    Renames the images in the given directory to match the Facenet dataset. Creates temporary directory and after
+    renaming all images removes the original directory and renames the temporary directory to match the original one.
+
+    :param from_dir: directory containing the images to be renamed
+    """
     for sub_folder in os.scandir(from_dir):
         if sub_folder.is_dir():
             new_dir_name = sub_folder.name.split("_")
@@ -76,7 +88,7 @@ if __name__ == "__main__":
             resize_images(f"{split}")
 
     if args.bin or args.all:
-        for split in ["tiny_test", "tiny_val"]:
+        for split in ["test", "val"]:
             print(f"Generating pairs.txt for {split}...")
             os.system(f"python gen_pairs_lfw.py --data-dir {split}/ --txt-file pairs.txt")
             print(f"Moving pairs.txt to {split}/...")
@@ -87,9 +99,9 @@ if __name__ == "__main__":
 
     if args.rec or args.all:
         print("Creating 'lst' files for the training split...")
-        os.system("python im2rec.py --list --exts .jpg --recursive tiny_train ./tiny_train")
-        os.system("mv tiny_train.lst tiny_train/")
+        os.system("python im2rec.py --list --exts .jpg --recursive train ./train")
+        os.system("mv train.lst train/")
 
         print("Creating 'rec' and 'idx' files for the training split...")
-        os.system("python im2rec.py tiny_train ./tiny_train")
-        os.system("mv tiny_train/tiny_train.* .")
+        os.system("python im2rec.py train ./train")
+        os.system("mv train/train.* .")

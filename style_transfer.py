@@ -1,3 +1,8 @@
+"""
+This script applies style transfer to the images in the `test_data` directory.
+Similar to the implementation in the Python Notebook, but needed to be rewritten to run on metacentrum.
+"""
+
 import tensorflow_hub as hub
 import tensorflow as tf
 import os
